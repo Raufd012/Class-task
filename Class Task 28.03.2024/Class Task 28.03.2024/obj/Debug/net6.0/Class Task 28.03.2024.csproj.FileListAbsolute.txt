@@ -1,0 +1,5 @@
+C:\Users\ca.r214.18\Desktop\Class Task 28.03.2024\Class Task 28.03.2024\obj\Debug\net6.0\Class Task 28.03.2024.csproj.AssemblyReference.cache
+C:\Users\ca.r214.18\Desktop\Class Task 28.03.2024\Class Task 28.03.2024\obj\Debug\net6.0\Class Task 28.03.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.18\Desktop\Class Task 28.03.2024\Class Task 28.03.2024\obj\Debug\net6.0\Class Task 28.03.2024.AssemblyInfoInputs.cache
+C:\Users\ca.r214.18\Desktop\Class Task 28.03.2024\Class Task 28.03.2024\obj\Debug\net6.0\Class Task 28.03.2024.AssemblyInfo.cs
+C:\Users\ca.r214.18\Desktop\Class Task 28.03.2024\Class Task 28.03.2024\obj\Debug\net6.0\Class Task 28.03.2024.csproj.CoreCompileInputs.cache
